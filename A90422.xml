@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proposed comprehension soberly, and not unseasonably, considered.</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90422</idno>
+            <idno type="STC">Wing P1344</idno>
+            <idno type="STC">ESTC R226506</idno>
+            <idno type="EEBO-CITATION">45789374</idno>
+            <idno type="OCLC">ocm 45789374</idno>
+            <idno type="VID">172685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172685)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2645:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proposed comprehension soberly, and not unseasonably, considered.</title>
+                  <author>Penn, William, 1644-1718.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Andrew Sowle,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Penn by Wing.</note>
+                  <note>Signed: From real friends to king and country.</note>
+                  <note>Imprint information suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Apologetic works.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:172685:1" rendition="simple:additions"/>
+            <head>THE
+Propoſed Comprehenſion
+Soberly, and Not Unſeaſonably,
+CONSIDERED.</head>
+            <p>ALthough the Benefits wherwith Almighty God has Univerſally Bleſt
+the whole Creation, are a ſufficient Check to the Narrowneſs of
+their Spirits, who would Unreaſonably Confine all Comfort of Life
+within the ſtreight Compaſs of their own Party (as if to receed from their
+Apprehenſions, whereof themſelves deny any Infallible Aſſurance, were
+Reaſon good enough to deprive other Diſſenters of Nature's Inheritance,
+and which is more peculiar, ENGLAND's FREEDOMS) Yet
+ſince it fares ſo meanly with thoſe Excellent Examples, that many vainly
+think themſelves then beſt to anſwer the End of their being born into the
+World, when by a <hi>Severity,</hi> which leaſt of all reſembles the <hi>God of Love,</hi>
+they rigorouſly proſecute the Extirpation of their Brethren: Let it not
+ſeem Unreaſonable, or Ill timed, that we offer to your more Serious
+Thoughts, the great Partiality and Injuſtice, that ſeem to be the Compani<g ref="char:EOLhyphen"/>ons
+of a <hi>Comprehenſion,</hi> who onely can be concern'd at this time, to pre<g ref="char:EOLhyphen"/>vent
+<hi>It,</hi> by a more Large and Generous <hi>Freedom.</hi>
+            </p>
+            <p>Firſt then, <hi>Liberty of Conſcience</hi> (by which we commonly underſtand
+the free Exerciſe of any Diſſenting Perſwaſion) is but what has been gene<g ref="char:EOLhyphen"/>rally
+pleaded for, even by the <hi>Warmeſt Sticklers</hi> for a <hi>Comprehenſion,</hi> and
+without which it would be utterly Impoſſible, they ſhould be comprehen<g ref="char:EOLhyphen"/>ded:
+The Queſtion then will be this, <hi>What Ground can there be, why Some,
+and not All, ſhould be Tolerated?</hi> It muſt either reſpect <hi>Conſcience,</hi> or <hi>Co<g ref="char:EOLhyphen"/>vernment:</hi>
+If it be upon Matter of meer <hi>Religion,</hi> What Reaſon is there
+that one Party ſhould be Tolerated, and another Reſtrained; ſince all
+thoſe Reaſons, that may be urg'd by that Party, which is <hi>Comprehended,</hi> are
+every whit as proper to the Party <hi>Excluded?</hi> For if the Former ſay, <hi>They
+are Orthodox,</hi> ſo ſay the Latter too; If the one urge, <hi>It is Impoſſible they ſhould
+Believe without a Conviction; that the Underſtanding cannot be Forced; that Mild<g ref="char:EOLhyphen"/>neſs
+moſt Gains; that the True Religion never Perſecuted; that Severity is moſt Un<g ref="char:EOLhyphen"/>worthy
+of her; that Sound Reaſon is the only Weapon which can Diſarm the Under<g ref="char:EOLhyphen"/>ſtanding;
+that Coertion doth rather Obdurate then Soften; and that they therefore
+chuſe to be Sincere Diſſenters, before Hypocritical Conformiſts:</hi> The other Party
+ſays the ſame. <hi>In fine,</hi> There can be nothing ſaid for Liberty of Conſci<g ref="char:EOLhyphen"/>ence,
+upon Pure Conſciencious Grounds, by any one Party in <hi>England,</hi> that
+every one may not be Intereſted in; unleſs <hi>Any</hi> will undertake to judge
+that of <hi>Five Sorts of Diſſenters,</hi> Two are really ſuch on Convictions, and
+Three upon meer Deſign. But if ſuch Sentence would be lookt upon as
+moſt Arrogant and Unjuſt, how can it be Reaſonable, that thoſe whom
+ſome endeavour to exclude, ſhould be thus prejudg'd, and ſuch as are com<g ref="char:EOLhyphen"/>prehended,
+be therefore ſo only from a ſtrong Opinion of their Reality:
+We may conclude then, that ſince Liberty of Conſcience is what in it
+ſelf <hi>Comprehenders</hi> plead, and that it is evident to affirm this, or that,
+or the other Party <hi>Orthodox,</hi> is but a meer Begging of the Queſtion. What
+may be urg'd for one, is forceable for any other: <hi>Conſcience</hi> (not moveable
+but upon <hi>Conviction</hi>) being what all pretend themſelves alike concerned in.</p>
+            <p>But they ſay, that ſuch as are like to be comprehended, are Perſons, <hi>not
+Eſſentially</hi> Differing; that it were pitty to exclude them whoſe <hi>Difference</hi>
+is rather in <hi>Minute Matters,</hi> then any thing <hi>Subſtantial,</hi> whereas you Err in
+<hi>Fundamentals.</hi> But how <hi>Paradoxal</hi> ſoever ſuch may pleaſe to think it, that we
+ſhould therefore plead the Juſtice of taking thoſe in, <hi>Some</hi> unkindly would
+have left out, we know not; however, we believe it moſt Reaſonable to do ſo;
+For certainly the <hi>Reaſon</hi> for <hi>Liberty</hi> or <hi>Toleration,</hi> ſhould hold Proportion with
+the Weighty Cauſe of Diſſent, and the Streſs Conſcience puts upon it.
+Where Matters are <hi>Trivial,</hi> they are more blameable that make them a
+Ground for Diſſent, then thoſe who perhaps (were that all the Difference)
+would never eſteem them worth Contending for, much leſs that they ſhould
+Rend from that <hi>Church,</hi> they other-wiſe Confeſs to be a True One: So
+that whoever are Condemnable, certainly thoſe who have been Authors and
+Promoters of Separation upon meer <hi>Toyes</hi> and <hi>Niceties,</hi> are not moſt of all
+others to be Juſtified. Had they conſcienciouſly offer'd ſome Fundamental
+Diſcontent, and pleaded the Impoſſiblity of reconciling ſome Doctrines
+with their Reaſon or Conſcience, yet promiſing Quiet Living, and all
+Due Subjection to Government, they might have been thus far more excu<g ref="char:EOLhyphen"/>ſable,
+that People would have had Reaſon to have ſaid; Certainly ſmall
+Matters could not have induc'd theſe Men to this Diſgraceful Separation, nor
+any thing of this Life have tempt them to this ſo Great and Troubleſom
+Alteration: <hi>But to take pet at a Ceremony, then Rend from the Church, ſet up a
+New Name and Model, gather People, raiſe Animoſity, and only make fit for Blows,</hi>
+by a Furious Zeal kindled in their Heads, againſt a few <hi>Ineptiae,</hi> meer Trifles;
+and being utterly vanquiſht from theſe Proceedings, to become moſt earneſt
+Sollicitors for a <hi>Comprehenſion;</hi> though at the ſame time of hot Purſuit af<g ref="char:EOLhyphen"/>ter
+this Priviledge, to ſeek nothing more then to prevent others of Injoy<g ref="char:EOLhyphen"/>ing
+the ſame Favour, under the Pretence of more <hi>Fundamental Difference;</hi>
+Certainly, this ſhows that had ſuch Perſons Power, they would as well
+Diſallow of a <hi>Comprehenſion</hi> to thoſe who are the Aſſertors of thoſe Ce<g ref="char:EOLhyphen"/>remonies
+they receed from, as that for meer Ceremonies they did at firſt
+Zealouſly Diſſent, and ever ſince remain more Unjuſtifiably Fierce for ſuch
+<hi>Separation.</hi> And truly, If there were no more in it then this, it would
+be enough for us to ſay, That ſome in <hi>England</hi> never Rent themſelves from
+the <hi>Church</hi> at all, much leſs for little Matters: that they never endeavour<g ref="char:EOLhyphen"/>ed
+her Exile, but ſhe found them upon her Return, which they Oppoſed
+not, nor yet ſince have any wayes ſought to inſtall themſelves in her Dig<g ref="char:EOLhyphen"/>nities,
+or enrich themſelves by her Preferments. We appeal then to all
+Sober Men, if what is generally call'd the <hi>Epiſcopal</hi> Party of <hi>England</hi> can
+with Good Conſcience, and True Honour diſ-inherit thoſe of their Native
+Rights, Peace, and Protection, and leave them as Orphants to the
+wide World, indeed a Naked Prey to the Devourer, who from firſt to
+laſt have never been concerned, either to endeavour their Ruin, or any ways
+withſtand their Return, whilſt it may be ſome of thoſe, who have been the
+moſt Vigorous in both, and that for <hi>Circumſtantial,</hi> and not <hi>Eſſential Differences,</hi>
+may be reputed more deſerving of a <hi>Comprehenſion,</hi> then we are of a <hi>Toleration.</hi>
+            </p>
+            <p>But it will be yet ſaid, <hi>You are Inconſiſtent with Government, They are not,
+therefore You are Excluded, not out of Partiality, but Neceſſity.</hi> What Government
+beſides their own they are conſiſtent with, we leave on the ſide of Story to
+tell, who can better ſpeak their Mind then we are either able or Willing to
+do: But this give us leave to ſay in general, If any apprehend us to be ſuch as
+merit not the Care of our <hi>Superiours,</hi> becauſe ſuppos'd to be <hi>Deſtructive</hi> of the
+<hi>Government,</hi> let us be call'd forth by Name, and hear our Charge; and if we are
+not able to anſwer the Unbyaſt Reaſon of Mankind, in reference to our
+Conſiſtency with the Peace, Quiet, Trade, Tribute of theſe Kingdoms,
+then, and not before, deny us all Protection. But that Men ſhould be con<g ref="char:EOLhyphen"/>cluded
+before heard, and ſo ſentenced for what they really are not, <hi>is like
+Beheading them before they are Born.</hi> We do aver, and can make it appear,
+that there is no one Party more Quiet, Subject, Induſtrious and in the bot<g ref="char:EOLhyphen"/>tom
+of their very Souls, greater Lovers of the Good Old <hi>Engliſh</hi> Govern<g ref="char:EOLhyphen"/>ment
+and Proſperity of theſe Kingdoms among the <hi>Comprehended,</hi> then for
+ought we yet ſee, may be found among thoſe who are like to be unkindly
+<hi>Excluded;</hi> However if ſuch we were in any one Point, <hi>Cure rather then Kill us;</hi>
+and ſeek the Publick Good <hi>ſome cheaper Way then by our Deſtruction:</hi> Is there
+no <hi>Expedient</hi> to prevent Ruin? let <hi>Reaſon</hi> qualifie <hi>Zeal,</hi> and <hi>Conſcience, Opinion.</hi>
+            </p>
+            <p>To Conclude, If the Publick may be ſecured, and Conſcience freely ex<g ref="char:EOLhyphen"/>ercis'd
+by all, for the ſame Reaſons, it may be ſome (&amp; ſince Liberty of Con<g ref="char:EOLhyphen"/>ſcience,
+is Liberty of Conſcience, and the Reaſons for it, equivalent) We
+ſee not in the whole World, why any ſhould be depriv'd of That, which
+others for no better Reaſons are like to injoy.</p>
+            <p>Let it not then be Unworthy of Such to remember, that God affords his
+Refreſhing <hi>Sun to All;</hi> The Dung-hill is no more excepted then the moſt
+Delightful Plane, and his <hi>Rain falls alike</hi> both upon the Juſt and Unjuſt:
+He ſtrips not Mankind of what ſuits their Creaturely Preſervation; <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi>
+themſelves, have no more peculiar Priviledge in the Natural Benefits
+of Heaven, then <hi>Turks</hi> or <hi>Indians.</hi> Would it not then be ſtrange, that <hi>In<g ref="char:EOLhyphen"/>fidels</hi>
+themſelves much leſs any Sort of <hi>Chriſtians</hi> ſhould be deprived of Na<g ref="char:EOLhyphen"/>tural
+Priviledges for meer <hi>Opinion,</hi> by thoſe who pretend to be the <hi>Beſt
+Servants of</hi> that <hi>God,</hi> who ſhows them quite an other Example, by the Uni<g ref="char:EOLhyphen"/>verſality
+of his Goodneſs as Creator; And <hi>Believers in</hi> that <hi>Chriſt,</hi> who
+himſelf preacht the <hi>Perfection of Love, both to Friends and Enemies;</hi> and
+laid down his Life to confirm it when he had done. If Men ſhould
+Love their Enemies, doubtleſs they ought at leaſt to Forbear their Friends:
+And though ſome Differences in Judgment about <hi>Religion</hi> be a Sufficient Rea<g ref="char:EOLhyphen"/>ſon
+to excommunicate a Man the Air Eccleſiaſtical, yet nothing certainly of
+that Sort ought to diſ-Priviledge Men of their Air Natural and Civil to
+breath freely in: And let that <hi>GOOD</hi> our Superiours have obſerved to be
+the <hi>Fruit of Toleration,</hi> not be Weakned or Blaſted by an Untimely <hi>Com<g ref="char:EOLhyphen"/>prehenſion</hi>
+of ſome, to the <hi>Excluſion</hi> of the Reſt; ſince the Reaſon holds
+the ſame for the leſs Formidable Separatiſts, that may not be however any
+whit leſs Conſciencious.</p>
+            <p>We will omit to mention, how much more Suitable it were to <hi>State
+Matters,</hi> that all Parties ſhould be kept upon an Equal Poize, a thing moſt
+True in it ſelf, and moſt Secure to the <hi>Publick Magiſtrate:</hi> and will Con<g ref="char:EOLhyphen"/>clude
+at this time, That though We no wayes Deſigne a <hi>Miſ-Repreſenting</hi>
+of any, much leſs their <hi>Exception,</hi> and leaſt of all their <hi>Perſecution;</hi> yet,
+a <hi>Comprehenſion</hi> either reſpecting the <hi>Perſons</hi> and their <hi>Qualifications,</hi> or their
+<hi>Separation,</hi> and the Grounds and Reaſons of it, We ſeriouſly believe, can
+never be conſiſtent with that <hi>Conſcience,</hi> and <hi>Honor,</hi> and <hi>Wiſdom,</hi> and
+<hi>Safety,</hi> that ought to be the <hi>Mark,</hi> thoſe who are concern'd in it, ſhould
+take their Aim by. But if a <hi>Comprehenſion</hi> ſhould at laſt be compaſt, it is
+not doubted by many Wiſe Men, but it will be found as Impracticable as
+other <hi>ACTS</hi> more ſeemingly <hi>Severe</hi> have been, and at laſt will neceſſitate
+to that Well-Ordered Univerſal Toleration of all, who both profeſs and
+Practice <hi>Peace, Obedience, Induſtry,</hi> and <hi>Good Life,</hi> which will beſt pleaſe Al<g ref="char:EOLhyphen"/>mighty
+God, and Rejoyce the Hearts of all Good Men.</p>
+            <closer>
+               <signed>From Real Friends to <hi>King</hi> and <hi>Country.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
